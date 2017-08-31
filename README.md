@@ -1,4 +1,4 @@
-# Imdb-movie-manager
+# Sort your movies by IMDB ratings!
 ##This works only for Windows OS
 This script will sort your movies into folders based on the IMDB rating.
 
